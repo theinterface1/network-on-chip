@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>edu.unh.cs</groupId>
+    <artifactId>classutils</artifactId>
+    <packaging>jar</packaging>
+    <description>ClassUtils</description>
+    <url>http://cs.unh.edu/~charpov/</url>
+    <version>1.4.2</version>
+    <name>ClassUtils</name>
+    <organization>
+        <name>edu.unh.cs</name>
+        <url>http://cs.unh.edu/~charpov/</url>
+    </organization>
+    <properties>
+        <info.apiURL>http://cs.unh.edu/~charpov/lib/</info.apiURL>
+    </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.13.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scalatest</groupId>
+            <artifactId>scalatest_2.13</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.scalactic</groupId>
+            <artifactId>scalactic_2.13</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>net.jcip</groupId>
+            <artifactId>jcip-annotations</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
+</project>

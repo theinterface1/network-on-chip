@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: edu.unh.cs:classutils:1.4.2:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/cs.unh.edu/~charpov/lib/edu/unh/cs/classutils/1.4.2/classutils-1.4.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/cs.unh.edu/~charpov/lib/edu/unh/cs/classutils/1.4.2/classutils-1.4.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/cs.unh.edu/~charpov/lib/edu/unh/cs/classutils/1.4.2/classutils-1.4.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

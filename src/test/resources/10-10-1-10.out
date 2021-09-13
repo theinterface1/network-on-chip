@@ -1,0 +1,10 @@
+msg 1 sent by (5, 5) at 1, delivered to (7, 5) at 4
+msg 2 sent by (8, 0) at 3, delivered to (2, 5) at 13
+msg 3 sent by (5, 4) at 3, delivered to (1, 0) at 16
+msg 4 sent by (9, 7) at 4, delivered to (5, 3) at 17
+msg 5 sent by (6, 1) at 6, delivered to (4, 0) at 24
+msg 6 sent by (7, 3) at 8, delivered to (6, 8) at 23
+msg 7 sent by (9, 9) at 9, delivered to (3, 2) at 17
+msg 8 sent by (8, 7) at 11, delivered to (4, 1) at 22
+msg 9 sent by (5, 3) at 11, delivered to (7, 0) at 21
+msg 10 sent by (9, 1) at 12, delivered to (5, 1) at 19

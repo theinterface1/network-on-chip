@@ -1,0 +1,5 @@
+# Project exclude paths
+/project/target/
+/target/
+/target/classes/
+/target/test-classes/
